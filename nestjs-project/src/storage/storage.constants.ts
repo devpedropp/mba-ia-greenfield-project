@@ -1,0 +1,1 @@
+export const STORAGE_S3_CLIENT = 'STORAGE_S3_CLIENT';
